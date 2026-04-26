@@ -1,5 +1,5 @@
 # avd-repo6
-want to store code for project cicd practical
+# want to store code for project cicd practical
 name: etl pipeline
 on:
     push:
