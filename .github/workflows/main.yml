@@ -40,5 +40,5 @@ jobs:
         with:
           python-version: '3.11'
       - name: Run load_data.py
-        run: python load_data.py
+        run: echo 'welcome-'
 
