@@ -2,9 +2,9 @@
 
 name: Run python job
 on:
-  push:
-    branches:
-      - main
+   push:
+       branches:
+        - main
 jobs:
    ci-pipeline:
        runs-on: ubuntu-latest
@@ -15,4 +15,4 @@ jobs:
 
 
        - name: print Message
-         run :echo 'welcome to avd'
+         run : echo 'welcome to avd'
